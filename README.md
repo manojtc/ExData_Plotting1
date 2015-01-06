@@ -1,3 +1,5 @@
+<b>The plot files are in the 'figure' folder.</b>
+
 ## Introduction
 
 This assignment uses data from
